@@ -1,4 +1,4 @@
-### Hi there 👋 i am pratik khuntia aka pratik
+### Hi there 👋 i am pratik khuntia aka pratik As a first-year Computer Science and Engineering student at NIT Durgapur, I'm deeply immersed in the world of technology and innovation. With a robust academic grounding from Jawahar Navodaya Vidyalaya (JNV), Odisha adarsha Vidyalaya (OAV)I'm passionate about mastering programming languages, developing efficient algorithms, and exploring advanced fields like artificial intelligence, machine learning, and blockchain technology. My interests extend to cybersecurity, cloud computing, and system architecture, where I aim to design and deploy scalable, secure solutions. I thrive on solving complex computational problems and am driven by the potential of technology to revolutionize industries. As I delve deeper into areas like quantum computing and software engineering, I'm eager to collaborate on cutting-edge projects that push the boundaries of what's possible in the digital world
 
 <!--
 **pk-rcb/pk-rcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
